@@ -1,0 +1,23 @@
+# AI search and citation crawlers are named so the welcome is explicit.
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+Allow: /
+
+# AI training crawlers are not welcome (same policy as coreymcdaniel.com).
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: CCBot
+User-agent: Applebot-Extended
+User-agent: Bytespider
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://funding.coreymcdaniel.com/sitemap.xml

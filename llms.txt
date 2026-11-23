@@ -1,0 +1,27 @@
+# Government Funding Pathways
+
+> A free, independent educational planner by Corey McDaniel (Tempe, Arizona) for two paths: forming a nonprofit and seeking grants, or financing a for-profit small business. It covers 9 U.S. states: Arizona, California, Texas, Florida, Wisconsin, Kentucky, Nevada, New Mexico, Iowa. It is not affiliated with any government agency and is not legal, financial or tax advice.
+
+The planner has a nonprofit pathway (11 steps: mission, board, registered agent, state filing, EIN, bylaws, 501(c)(3), SAM.gov and Grants.gov, grant search, state compliance, other funding) and a business pathway (10 steps: entity, EIN and banking, documents, eligibility, SBDC counseling, lenders, application, underwriting, closing, repayment). Each state adds its filing office, fees and official links. Checklist progress is saved only in the browser; nothing is uploaded. Information as of October 2026.
+
+## Planner
+
+- [Government Funding Pathways](https://funding.coreymcdaniel.com/): choose a state and a pathway; add ?state=xx (for example ?state=ky) to open a state
+
+## State guides
+
+- [Arizona](https://funding.coreymcdaniel.com/arizona/): nonprofit filing in Arizona, fees, official links and small business funding help
+- [California](https://funding.coreymcdaniel.com/california/): nonprofit filing in California, fees, official links and small business funding help
+- [Texas](https://funding.coreymcdaniel.com/texas/): nonprofit filing in Texas, fees, official links and small business funding help
+- [Florida](https://funding.coreymcdaniel.com/florida/): nonprofit filing in Florida, fees, official links and small business funding help
+- [Wisconsin](https://funding.coreymcdaniel.com/wisconsin/): nonprofit filing in Wisconsin, fees, official links and small business funding help
+- [Kentucky](https://funding.coreymcdaniel.com/kentucky/): nonprofit filing in Kentucky, fees, official links and small business funding help
+- [Nevada](https://funding.coreymcdaniel.com/nevada/): nonprofit filing in Nevada, fees, official links and small business funding help
+- [New Mexico](https://funding.coreymcdaniel.com/new-mexico/): nonprofit filing in New Mexico, fees, official links and small business funding help
+- [Iowa](https://funding.coreymcdaniel.com/iowa/): nonprofit filing in Iowa, fees, official links and small business funding help
+
+## Related
+
+- [Corey McDaniel](https://coreymcdaniel.com/): personal site, apps and contact
+- [CMD Resource Hub Arizona](https://azhub.coreymcdaniel.com/): directory of Arizona assistance programs
+- [Source code](https://github.com/coreymcd37/government-funding-pathways)
